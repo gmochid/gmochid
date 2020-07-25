@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Rosyid here
+
+🔭 Working at [Goers](https://goersapp.com) as VP of Engineering.
+
+🌱 Making amazing softwares through [Azura Labs](https://azuralabs.id)
+
+👯 Contact me at arrosyidbh@gmail.com
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/gmochid?label=Follow&style=social)](https://twitter.com/gmochid)  
 
 <!--
 **gmochid/gmochid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
