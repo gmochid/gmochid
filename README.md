@@ -1,10 +1,12 @@
 ### Hi there 👋, Rosyid here
 
-🔭 Working at [Goers](https://goersapp.com) as VP of Engineering.
+🔭 Working at GovtTech as Engineering Manager.
 
 🌱 Making amazing softwares through [Azura Labs](https://azuralabs.id)
 
 👯 Contact me at arrosyidbh@gmail.com
+
+📫 My [LinkedIn Profile](https://www.linkedin.com/in/abdurrosyid-broto-handoyo-57766029/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmochid?label=Follow&style=social)](https://twitter.com/gmochid)  
 
