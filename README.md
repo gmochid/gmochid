@@ -1,9 +1,5 @@
 ### Hi there 👋, Rosyid here
 
-🔭 Working at GovtTech as Engineering Manager.
-
-🌱 Making amazing softwares through [Azura Labs](https://azuralabs.id)
-
 👯 Contact me at arrosyidbh@gmail.com
 
 📫 My [LinkedIn Profile](https://www.linkedin.com/in/abdurrosyid-broto-handoyo-57766029/)
